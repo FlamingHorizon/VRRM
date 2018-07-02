@@ -1,5 +1,4 @@
 Towards Human-like Reasoning: Neural Variable Binding and Concept Acquisition    
-Submission to Knowledge-Based Systems  
 ============================================================================  
 **Note that:**  
 ---------------------------------------------------------------------------- 
