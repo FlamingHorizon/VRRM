@@ -1,4 +1,4 @@
-Towards Human-like Reasoning: Neural Variable Binding and Concept Acquisition    
+Learning to Activate Logic Rules for Textual Reasoning    
 ============================================================================  
 **Note that:**  
 ---------------------------------------------------------------------------- 
